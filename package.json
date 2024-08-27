@@ -1,0 +1,8 @@
+{
+  "name": "SER-SpeechMaster",
+  "version": "1.0.0",
+  "dependencies": {
+    "@mui/material": "^5.15.18",
+    "react": "^18.3.1"
+  }
+}
